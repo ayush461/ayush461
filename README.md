@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm AYUSH AGARWAL</h1>
 <h1>ABOUT ME:</h1>
-<h3 align="center">Full-stack web developer 💻 always looking to grow and improve. Love to explore new Tech-stacks and improve problem-solving skills. Currently a final year,B.Tech student in Kalinga Institute of Industrial Technology.</h3>
+<h3 align="center">Full-stack web developer 💻 always looking to grow and improve. Love to explore new Tech-stacks and improve problem-solving skills. Currently studying B-Tech in Kalinga Institute of Industrial Technology.</h3>
+
+<h4> Final year B-Tech Cse Student.</h4>
 
 🔭 I am a Full stack web-developer.
 
@@ -37,5 +39,9 @@
 <a href="https://www.leetcode.com/wer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wer" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ayushagarwal819" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="wer" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Github Stats:</h3>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ayush461&hide_border=true)](https://git.io/streak-stats/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=werr&label=Profile%20views&color=0e75b6&style=flat" alt="werr" /> </p>
